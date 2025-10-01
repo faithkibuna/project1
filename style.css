@@ -1,0 +1,44 @@
+nav ul li {
+  color: rgb(15, 201, 248);
+  display: inline;
+  margin-right: 20px;
+  font-size: 20px;
+  font-family: roboto, sans-serif;
+  border: radius 10px solid;
+}
+body {
+  padding: 0;
+  box-sizing: border-box;
+  font-family: roboto, sans-serif;
+  background-color: rgb(255, 255, 255);
+  font-size: 20px;
+}
+#about {
+  color: rgb(15, 201, 248);
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  text-align: justify;
+}
+#work {
+  color: rgb(15, 201, 248);
+  font-family: Roboto, sans-serif;
+  text-align: justify;
+  font-size: 20px;
+}
+p {
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  text-align: justify;
+
+  font-family: "Roboto", sans-serif;
+}
+h1,
+h2,
+h3,
+h4 {
+  text-align: jusstify;
+  color: rgb(15, 201, 248);
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+}
